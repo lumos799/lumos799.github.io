@@ -4,7 +4,7 @@ Hi, I am Yuanming Shao. I am a second-year master's student at the University of
 
 You can find me at [linkedin](https://www.linkedin.com/in/yuanming-shao/) or email me [shaoym@seas.upenn.edu](mailto:shaoym@seas.upenn.edu).
 
-I'm always happy to chat — feel free to drop me an [email](mailto:shaoym@seas.upenn.edu) about research or anything else on your mind. I've been lucky to be surrounded by wonderful friends, collaborators, and mentors, and I try to keep an optimistic outlook on life. If you ever just need someone to talk to, don't hesitate to reach out!
+I'm always happy to chat — feel free to drop me an [email](mailto:shaoym@seas.upenn.edu) about research or anything else on your mind. I've been lucky to be surrounded by wonderful friends, collaborators, and mentors, and I try to keep an optimistic outlook on life. And if you ever just need someone to talk to, feel free to reach out.
 
 ## Research Interests
 
@@ -12,8 +12,8 @@ I am broadly interested in efficient and interpretable machine learning, deep ge
 
 ## Publications
 
-**IGAMT: Privacy-Preserving Electronic Health Record Synthesization with Heterogeneity and Irregularity.**
-**AAAI'24**
-Wenjie Wang, Pengfei Tang, Jian Lou,**Yuanming Shao**, Lance Waller, Yi-an Ko, Li Xiong[[code]](https://github.com/urihsam/IGAMT)[[paper]](https://lumos799.github.io/pdf/04220-AAAI24.WangW.pdf)
+**IGAMT: Privacy-Preserving Electronic Health Record Synthesization with Heterogeneity and Irregularity.** \
+**AAAI'24** \
+Wenjie Wang, Pengfei Tang, Jian Lou, **Yuanming Shao**, Lance Waller, Yi-an Ko, Li Xiong [[code]](https://github.com/urihsam/IGAMT) [[paper]](https://lumos799.github.io/pdf/04220-AAAI24.WangW.pdf)
 
-`<em>`We present IGAMT, the Imitative Generative Adversarial Mixed-embedding Transformer to generate differentially private EHR with sophisticated characteristics.`</em>`
+*We present IGAMT, the Imitative Generative Adversarial Mixed-embedding Transformer to generate differentially private EHR with sophisticated characteristics.*
