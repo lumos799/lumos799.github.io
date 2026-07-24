@@ -18,7 +18,7 @@ Zixuan Yi, **Yuanming Shao**, Shaun Wallace, Zachary Ives, Ryan Marcus
 
 **IGAMT: Privacy-Preserving Electronic Health Record Synthesization with Heterogeneity and Irregularity.** \
 **AAAI'24** \
-Wenjie Wang, Pengfei Tang, Jian Lou, **Yuanming Shao**, Lance Waller, Yi-an Ko, Li Xiong [[code]](https://github.com/urihsam/IGAMT) [[paper]](https://lumos799.github.io/pdf/04220-AAAI24.WangW.pdf)
+Wenjie Wang, Pengfei Tang, Jian Lou, **Yuanming Shao**, Lance Waller, Yi-an Ko, Li Xiong [[code]](https://github.com/urihsam/IGAMT) [[paper]](https://lumos799.github.io/pdf/04220-AAAI24.WangW.pdf) [[poster]](https://lumos799.github.io/pdf/aaai24poster.png)
 
 *We present IGAMT, the Imitative Generative Adversarial Mixed-embedding Transformer to generate differentially private EHR with sophisticated characteristics.*
 
